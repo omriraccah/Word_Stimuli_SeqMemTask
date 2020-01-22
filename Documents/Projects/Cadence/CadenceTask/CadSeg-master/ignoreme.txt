@@ -1,0 +1,21 @@
+
+----------------------------------------------------------------------------
+Started at: 03-Oct-2019 12:17:23
+
+START	452944.5998		0
+Display	Stimulus	Tag	Time
+STIM	Paragraph	Push any button to start the story	0.030821
+STIM	Text	+	2.03
+STIM	Soundfile	/Users/omriraccah/Documents/Projects/Naturalistic_Stories_Project/StoryTask/Story_AudioFiles/Samantha/s1.wav	2.4019
+STIM	Text	+	2.4151
+STIM	Paragraph	Please push any button to start recording	2.4303
+
+----------------------------------------------------------------------------
+Started at: 03-Oct-2019 12:18:05
+
+START	452986.4835		0
+Display	Stimulus	Tag	Time
+STIM	Paragraph	Push any button to start the story	0.024726
+STIM	Text	+	2.0137
+STIM	Soundfile	/Users/omriraccah/Documents/Projects/Naturalistic_Stories_Project/StoryTask/Story_AudioFiles/Samantha/s1.wav	2.3842
+STIM	Text	+	2.3932
